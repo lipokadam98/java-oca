@@ -1,0 +1,64 @@
+1. question
+G the code doesnt compile
+2. question
+A
+C
+D
+3. question
+B
+C
+E
+4. question
+012
+aaa
+
+01234
+abbaa
+
+insert at 4
+01234567
+abbaccca
+
+5. question
+code doesnt compile
+String és stringbuilder összehasonlítása nem lehetséges
+
+
+6. question
+F. code doesnt compile
+
+7. question
+
+012345
+abcdef
+elsőnek kiírná hogy 6
+aztán azt hogy d
+utána pedig exception mivel nincs olyan index
+
+B
+D
+E
+
+8. question
+
+//A substring csak a megadott indexig megy azt már nem veszi bele ami meg van adva
+012345678
+012345678
+substring(1,3);
+ 12
+substring(7,7);
+blank line
+substring(7);
+78
+A
+E
+D
+
+9. question
+E code does not compile
+
+10. question
+
+01+89-
+A
+

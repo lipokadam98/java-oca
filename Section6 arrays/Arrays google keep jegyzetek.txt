@@ -1,0 +1,18 @@
+Array search binary search
+A binary search hogy működni tudjon ahhoz elsőnek az elemeknek növekvő sorrendben kell lenniük más esetben kiszámíthatatlan működés lesz vagyis nem találja meg azt az elemet amit éppen szeretnénk hiába benne van.
+
+Ha az array sorted (Arrays.sort(array);)
+És akkor ad vissza minusz előjelű számot akkor az az elem nincs benne és a - jel után azt a számot adja ahol lennie kéne annak az elemnek
+
+Ha pedig sorted és van találat akkor az indexet adja vissza ahol az elem található a tömbben.
+
+Variable arguments
+public static void main(String... args){
+}
+public static void main(String[] args){
+}
+
+Ez a kettő ugyanaz a ... Jelzi a variable argumentset vizsgán bármelyik helyes ha kérdezik.
+
+Az args elfogad arrayt is mint bemenő paramétert és "asd","asd2" vesszővel elválasztott Stringeket is new String []{"asd","asd2"}
+

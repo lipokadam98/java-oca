@@ -1,0 +1,53 @@
+1st question:
+m=9
+n=1
+x=0
+amíg m > n
+1. iteráció:
+9 > 1 lefut
+m--;
+m = 8;
+n = 1;
+n += 2;
+n = 3
+x += m + n;
+x = 8 + 3;
+11
+2. iteráció:
+8 > 3 lefut
+m = 7;
+n = 5;
+11 += 7 + 5;
+x = 11 + 12;
+x = 23;
+3. iteráció 
+7 > 5;
+m = 6;
+n = 7;
+x = 6 + 7;
+23 += 13;
+x = 36;
+4. iteráció 
+m = 6;
+n = 7;
+x = 36;
+nem fog lefutni mivel m nem nagyobb mint n
+
+3rd question:
+
+int x = 5;
+System.out.println(x > 2 ? x < 4 ? 10 : 8 : 7);
+
+Fel kell bontani a ternary operation részt
+
+(x > 2) ? ((x < 4) ? 10 : 8) : 7 ;
+
+Mivel x nagyobb mint 2 ezért true ágba megy ami miatt pedig a második is kiértékelésre kerül
+
+6th question:
+x = 1, y = 15;
+
+//Ami hiba volt az infinite loopra kell odafigyelni
+if ben lehet b = true ha az boolean
+while() ban érvényes csak
+változó dekralálása a for cikluson belül amire maga a while rész hivatkozik nem lehetséges

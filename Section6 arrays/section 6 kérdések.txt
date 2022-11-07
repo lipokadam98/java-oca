@@ -1,0 +1,58 @@
+1. kérdés
+3.szor fog lefutni a külső
+belső pedig 2 alkalommal
+1.ciklus
+row=1;
+	1.belső
+		1*1 = 1;
+		count = 1;
+	2.belső
+		1*2 = 2;
+		count nem növelődik;
+2.ciklus
+row=2;
+	1.belső
+	2*1 = 2;
+	2.belső
+	2*2 = 4;
+3.ciklus
+row=3;
+	1.belső
+	3*1 = 3; count =2;
+	2.belső
+2. kérdés
+
+C
+E
+F
+
+3. kérdés
+C array only has length
+
+4. kérdés
+mivel az arrayben nincsenek növekvő sorrendben az elemek ezért a result nem lesz megfelelő undefined
+D
+
+5. kérdés
+a char array és az int array az nem ugyanaz mint a primitiv typeoknál
+tehát nem lehet azt mondani hogy egy char array egyenlő egy int array-el
+E. a helyes válasz
+
+6. kérdés
+A
+D
+
+7. kérdés
+
+C. A break miatt a ciklus véget ér és csak az egyik value lesz kiírva
+
+8. kérdés
+A mivel a continue a print után van ezért ki lesz írva minden
+
+9. kérdés
+
+C
+
+10. kérdés
+
+switch statementben nem lehet duplicate case label

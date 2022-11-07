@@ -1,0 +1,35 @@
+1. kérdés
+F ArrayListnek .size() metódusa van
+
+2. kérdés
+An array has fixed size
+array allows multiple dimensions
+array is ordered
+arraylist is ordered
+
+3. kérdés
+két array illetve arraylist akkor lesz egyenlő ha a tartalmuk
+ megegyezik és egyforma sorrendben vannak az objectek bennük
+
+6. kérdés 
+list.toArray(new Integer[4]) is valid;
+
+7. kérdés
+
+csak olyan van hogy Arrays.asList() olyan hogy arrayneve.asList() nem helyes
+
+8. kérdés
+két  arraylist akkor lesz egyenlő ha a tartalmuk
+ megegyezik és egyforma sorrendben vannak az objectek bennük
+
+9. kérdés
+5-ik és 7-ik sor autoboxingot használ
+viszont a for ciklus miatt runtime exception lesz mivel a ciklusban int van megadva és mikor a nullhoz és
+az outboxing miatt nem tudja átalakítani int-é
+
+10. kérdés
+A
+D
+E
+H
+K
